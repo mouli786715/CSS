@@ -8,7 +8,7 @@
 <style type="text/css">
 
 h1,h2{
-color:blue;
+color:GREEN;
 }
 </style>
 
